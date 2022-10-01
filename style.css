@@ -1,0 +1,190 @@
+header{
+	display:block;
+}
+
+}
+nav ul{
+	list-style: none;
+	overflow: hidden;
+	position: relative;
+}  
+  
+nav ul li {
+    float: left;
+	margin: 5px 25px 5px 5px;
+	font-size: 25px;
+	margin-top: 0;
+} 
+nav ul{
+	list-style: none;
+	overflow: hidden;
+	position: relative;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: #FF00FF;
+} 
+.border {
+	display: inline-block;
+	color: black;
+	font-size: 70px;
+	font-weight: 400;
+	margin: 0;
+}
+.product-content p {
+	color: #707070;
+	font-size: 14px;
+	font-family: OpenSans, sans-serif;
+	font-style: italic;
+	line-height: 16px;
+} 
+.borderalt {
+	color: black;
+	font-size: 18px;
+	font-weight: 400;
+	background: #FF00FF;
+	display: inline-block;
+	opacity: 0,5;
+}
+.bord {
+	color: black;
+	font-size: 18px;
+	font-weight: 400;
+	background: #FF00FF;
+	display: inline-block;
+}
+.logo img {
+	   width: 75px;
+	   height: auto; 
+	   margin-top: 0px;
+	   margin-left: 20px;
+	   border-radius: 50%;
+	   border: 1px solid black;
+	   float: left;
+}
+ img:hover {
+	width: 156 px;
+    height:156 px;
+}
+.stiker p a img {
+	border: 5px solid #FF00FF;
+	max-width: 200px;
+	margin-left: auto;
+	float: left;
+
+}
+.stiker p a img:hover {
+	border: 5px solid transparent;
+}
+.for-us{
+	max-width: 1200px;
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 0 auto;
+	margin-top: 0;
+	box-sizing: border-box;
+}
+.for-us p {
+	color: #484343;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: left;
+	font-family: Helvetica ;
+}
+.botom {
+	list-style: none;
+	margin: 5px 25px 5px 5px;
+}
+table {
+	border: solid #FF00FF;
+	border-collapse: collapse;
+}
+footer{
+	border: 1px solid black;
+	background: #FF00FF;
+	box-sizing: border-box;
+	max-height: 200px ;
+	margin: 0;
+}
+footer p{
+	float: right;
+	margin: 30px 70px 0 0;
+	font-size: 1rem;
+}
+.footer-href{
+	list-style: none;
+	overflow: hidden;
+	position: relative;
+}  
+
+.footer-href li {
+	float: left;
+	margin: 5px 25px 5px 5px;
+}
+.footer-href {
+	list-style: none;
+	overflow: hidden;
+	position: relative;
+}  
+.email {
+	border: solid #FF00FF;
+	font-color
+}
+form input, form textarea {
+	text-transform: capitalize;
+	background-color: #ffe;
+	color: #FF00FF;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: left;
+}	
+article .for-us {
+	height: 10em;
+    position: relative
+}
+
+article fieldset {
+	   border:none;
+}
+fieldset button {
+	background: #FF00FF;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 20px;
+	font-weight: 600;
+	height: 40px;
+	margin: 4px 100px;
+}
+.product {
+	display: inline-block;
+	background: blue;
+	margin: 20 0 20 20px;
+	padding: 20px;
+	max-width: 200px;
+	margin-top: 0px;
+
+}
+.stiker {
+	max-width: 200px;
+	margin-top: 0;
+	display: block;
+}
+.product-content {
+	margin: 20px;
+	width: 20%;
+    margin-top: 60px 0 0;
+    margin-right: 2px;
+    color: #000;
+    display: inline-block;
+    float: left;
+
+}
+* {
+	margin: 0;
+	padding: 0;
+}
